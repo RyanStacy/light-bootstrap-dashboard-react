@@ -46,19 +46,14 @@ It comes with 6 filter colors for the sidebar (`black`, `azure`,`green`,`orange`
 [View More](https://demos.creative-tim.com/light-bootstrap-dashboard-react/#/admin/dashboard?ref=lbdr-readme).
 
 
-
-
 ## Quick start
 
 Quick start options:
 
-
+- Do npm start in the terminal to have the local host intiate
 - Clone the repo: `git clone https://github.com/creativetimofficial/light-bootstrap-dashboard-react.git`.
 - [Download from Github](https://github.com/creativetimofficial/light-bootstrap-dashboard-react/archive/master.zip).
 - [Download from Creative Tim](https://www.creative-tim.com/product/light-bootstrap-dashboard-react?ref=lbdr-readme).
-
-
-
 
 
 ## Documentation
