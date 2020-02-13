@@ -140,6 +140,7 @@ pre.prettyprint{
 
 .fixed-section ul{
     padding: 0;
+    list-style: none;
 }
 
 .fixed-section.affix-top{
