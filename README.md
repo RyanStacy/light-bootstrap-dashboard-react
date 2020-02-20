@@ -50,6 +50,8 @@ It comes with 6 filter colors for the sidebar (`black`, `azure`,`green`,`orange`
 
 Quick start options:
 
+Installing Brew for easy installs:
+- Run this in the OS terminal (not the VS.Code/other code editor terminal) to install software easily (e.g., node.js) /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 - Do npm start in the terminal to have the local host intiate
 - Clone the repo: `git clone https://github.com/creativetimofficial/light-bootstrap-dashboard-react.git`.
 - [Download from Github](https://github.com/creativetimofficial/light-bootstrap-dashboard-react/archive/master.zip).
