@@ -46,9 +46,11 @@ It comes with 6 filter colors for the sidebar (`black`, `azure`,`green`,`orange`
 [View More](https://demos.creative-tim.com/light-bootstrap-dashboard-react/#/admin/dashboard?ref=lbdr-readme).
 
 
+## This is a test to see if pushing is working from my MacBook. Normally I use my desktop PC at home.
+
 ## Quick start
 
-Quick start options:
+Quick start options to use:
 
 Installing Brew for easy installs:
 - Run this in the OS terminal (not the VS.Code/other code editor terminal) to install software easily (e.g., node.js) /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
