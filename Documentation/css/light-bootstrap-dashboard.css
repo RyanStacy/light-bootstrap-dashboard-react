@@ -1359,7 +1359,7 @@ body > .navbar-collapse[data-color="purple"]:after {
     top: 1px; }
   .navbar .navbar-nav .notification {
     position: absolute;
-    background-color: #FB404B;
+    background-color: rgb(64, 76, 251);
     text-align: center;
     border-radius: 10px;
     min-width: 18px;
