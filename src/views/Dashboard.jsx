@@ -75,7 +75,7 @@ class Dashboard extends Component {
                 statsText="Errors"
                 statsValue="23"
                 statsIcon={<i className="fa fa-clock-o" />}
-                statsIconText="In the last hour"
+                statsIconText="In the last day"
               />
             </Col>
             <Col lg={3} sm={6}>
